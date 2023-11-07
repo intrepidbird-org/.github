@@ -1,3 +1,3 @@
 # The IntrepidBird Organization
 
-IntrepidBird's best projects
+Go to `public/README.md`
