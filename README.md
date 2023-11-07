@@ -1,3 +1,3 @@
 # The IntrepidBird Organization
 
-Go to `public/README.md`
+Go to `profile/README.md`
