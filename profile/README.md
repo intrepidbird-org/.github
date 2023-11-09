@@ -2,6 +2,8 @@
 
 IntrepidBird's best projects
 
+Some Images are from third party sources, such as Poh Shen Loh, MAA, AoPS, etc.
+
 <!--
 
 **Here are some ideas to get you started:**
