@@ -5,7 +5,7 @@
 
 Proud Affiliate of **IntrepidMaths**, **The Bridgewater-Raritan Computer Science Club**, and **The Egg Clan**
 
-Former Affiliate of **Ctrl Alt Elite** (rebranded) and **ieuhfiuwefhorehf** (disbanded)
+We are a provider for Kurzgesagt - In a Nutshell weekly Discord QOTW's!
 
 -----------------------
 
