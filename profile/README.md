@@ -5,6 +5,8 @@
 
 Proud Affiliate of **IntrepidMaths**, **The Bridgewater-Raritan Computer Science Club**, and **The Egg Clan**
 
+Former Affiliate of **Ctrl Alt Elite** (rebranded) and **ieuhfiuwefhorehf** (disbanded)
+
 -----------------------
 
 Disclaimer: Some Images are from third party sources, such as Poh Shen Loh, MAA, AoPS, etc.
