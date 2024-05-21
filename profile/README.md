@@ -5,8 +5,6 @@
 
 Proud Affiliate of **IntrepidMaths**, **The Bridgewater-Raritan Computer Science Club**, and **The Egg Clan**
 
-We are a provider for Kurzgesagt - In a Nutshell weekly Discord QOTW's!
-
 -----------------------
 
 Disclaimer: Some Images are from third party sources, such as Poh Shen Loh, MAA, AoPS, etc.
