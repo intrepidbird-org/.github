@@ -7,7 +7,7 @@ Proud Affiliate of **IntrepidMaths**, **The Bridgewater-Raritan Computer Science
 
 -----------------------
 
-Disclaimer: Some Images are from third party sources, such as Poh Shen Loh, MAA, AoPS, etc.
+Disclaimer: Some images are from third-party sources, such as Poh Shen Loh, MAA, AoPS, etc.
 
 <!--
 
