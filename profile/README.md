@@ -10,7 +10,6 @@ Proud Affiliate of **IntrepidMaths**, **The Bridgewater-Raritan Computer Science
 Disclaimer: Some images are from third-party sources, such as Poh Shen Loh, MAA, AoPS, etc.
 
 <!--
-
 **Here are some ideas to get you started:**
 
 🙋‍♀️ A short introduction - what is your organization all about?
