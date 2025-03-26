@@ -4,8 +4,6 @@
 
 Proud Affiliate of **IntrepidMaths**, **The Bridgewater-Raritan Computer Science Club**, and **Sigma Computer Science**
 
-Based in Princeton, NJ and Bridgewater NJ
-
 -----------------------
 
 Disclaimer: Some images are from third-party sources, such as Poh Shen Loh, MAA, AoPS, etc.
